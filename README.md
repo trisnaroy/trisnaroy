@@ -19,7 +19,7 @@ Computer Science and Engineering graduate with 3 years of professional experienc
 ## 💻 Tech Stack
 
 ### Languages
-`Python` `SQL` `Java` `C++` `HTML` `CSS`
+`Python` `SQL` `Java` `C++` `JavaScript` `HTML` `CSS`
 
 ### Libraries & Frameworks
 `Scikit-Learn` `Pandas` `NumPy` `Matplotlib`
