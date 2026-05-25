@@ -32,7 +32,7 @@ Computer Science and Engineering graduate with 3 years of professional experienc
 ## Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,postgresql,git,github,html,css,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,mysql,postgresql,git,github,html,css,vscode" />
 </p>
 
 ---
