@@ -7,11 +7,12 @@ Computer Science and Engineering graduate with 3 years of professional experienc
 ---
 
 ## 🎯 Areas of Interest
-- Machine Learning & Predictive Analytics
-- Healthcare AI Systems
-- Data Science & Data Visualization
-- Database Engineering & Optimization
-- Research & Automation Systems
+
+- Software Engineering & Scalable System Architecture  
+- Artificial Intelligence & Machine Learning Research  
+- Data Engineering, Databases & Large-scale Data Systems  
+- Applied AI for Healthcare & Decision Support Systems  
+- Intelligent Software Systems & Real-world AI Applications  
 
 ---
 
