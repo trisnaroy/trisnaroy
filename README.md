@@ -1,18 +1,16 @@
 # Hi, I'm Trisna Rani Roy 👋
 
-### Software Engineer | Machine Learning Enthusiast | Aspiring Researcher
+### Aspiring Software Engineer & Researcher | Computer Science and Engineering Graduate
 
-Computer Science and Engineering graduate with 3 years of professional experience in database systems, software troubleshooting, enterprise application support, and structured data management. Passionate about Machine Learning, Data Science, and AI-driven healthcare research, with a strong interest in building intelligent data-driven systems for real-world problem solving.
+Focused on Software Engineering, Web Development, and Machine Learning through hands-on projects and continuous self-learning. Passionate about building scalable and intelligent data-driven systems using Python, SQL, and modern JavaScript frameworks. Interested in solving real-world problems with a strong focus on healthcare, automation, and intelligent applications.
 
 ---
 
 ## Areas of Interest
-
-- Software Engineering & Scalable System Architecture  
-- Artificial Intelligence & Machine Learning Research  
-- Data Engineering, Databases & Large-scale Data Systems  
-- Applied AI for Healthcare & Decision Support Systems  
-- Intelligent Software Systems & Real-world AI Applications  
+- Software Engineering & Web Application Architecture
+- Artificial Intelligence & Machine Learning Research
+- Data Engineering & Structured Data Management
+- Applied AI for Healthcare & Intelligent Systems  
 
 ---
 
@@ -39,29 +37,25 @@ Computer Science and Engineering graduate with 3 years of professional experienc
 
 ## Featured Projects
 
-### Heart Disease Prediction System
+### [Heart Disease Prediction System](https://github.com)
 Machine learning-based predictive healthcare system developed using Python, Pandas, Scikit-Learn, and MySQL. The project analyzes patient datasets and predicts the risk of heart disease using supervised learning algorithms and data preprocessing techniques.
 
-### Database Integrity & POS Support System
-Worked on enterprise database maintenance, troubleshooting, workflow optimization, and structured data management for e-commerce and POS platforms at Jumbo Auto Parts.
+### [Interactive Quiz Application](https://github.com)
+A beginner-friendly interactive Quiz Application built using HTML5, CSS3, and JavaScript (ES6). Focused on dynamic UI updates, event handling, and DOM manipulation.
 
-### Data Analysis & Visualization Project
-Performed exploratory data analysis (EDA), data preprocessing, and visualization using Pandas, NumPy, and Matplotlib for structured datasets.
+### [Portfolio Website](https://github.com)
+Designed and developed a responsive personal portfolio website using HTML, CSS, and JavaScript to showcase projects, skills, and academic background.
 
-### Portfolio Website
-Designed and developed a personal portfolio website using HTML, CSS, and JavaScript to showcase projects, skills, and professional experience.
-
-### System Troubleshooting & Application Support
-Provided technical support for enterprise applications, resolved workflow issues, and ensured system stability through debugging and optimization.
+### [Student Management System](https://github.com)
+A Python console-based backend application demonstrating core programming concepts, data structures, and basic CRUD operations.
 
 ---
 
 ## Currently Learning
-- Advanced Machine Learning
-- Deep Learning Fundamentals
-- Data Visualization
-- Research Methodology
-- AI for Healthcare Applications
+- Advanced Machine Learning & Deep Learning Fundamentals
+- Modern Web Frameworks (React / Next.js)
+- Software Design Patterns & Scalable Architecture
+- Research Methodology for AI Medical Applications
 
 ---
 
