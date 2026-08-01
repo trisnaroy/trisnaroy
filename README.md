@@ -1,4 +1,4 @@
-# Hi, I'm Trisna Rani Roy 👋
+# Hi, I'm Trisna Roy 👋
 
 ### Aspiring Researcher | Computer Science and Engineering Graduate
 
