@@ -1,6 +1,6 @@
 # Hi, I'm Trisna Roy 👋
 
-### Aspiring Researcher | Computer Science and Engineering Graduate
+## Aspiring Researcher | Computer Science and Engineering Graduate
 
 Focused on Software Engineering, Web Development, and Machine Learning through hands-on projects and continuous self-learning. Passionate about building scalable and intelligent data-driven systems using Python, SQL, and modern AI/ML techniques. Interested in solving real-world problems with a strong focus on healthcare, automation, and intelligent applications.
 
@@ -17,13 +17,13 @@ Focused on Software Engineering, Web Development, and Machine Learning through h
 
 ## Tech Stack
 
-### Languages
+## Languages
 `Python` `SQL` `Java` `C++` `JavaScript` `HTML` `CSS`
 
-### Libraries & Frameworks
+## Libraries & Frameworks
 `Scikit-Learn` `Pandas` `NumPy` `Matplotlib`
 
-### Databases & Tools
+## Databases & Tools
 `MySQL` `PostgreSQL` `Git` `GitHub` `Jupyter Notebook`
 
 ---
